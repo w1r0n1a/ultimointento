@@ -1,0 +1,4 @@
+C:\Users\uriel\source\repos\helloworld2\obj\Debug\helloworld2.csproj.AssemblyReference.cache
+C:\Users\uriel\source\repos\helloworld2\obj\Debug\helloworld2.Properties.Resources.resources
+C:\Users\uriel\source\repos\helloworld2\obj\Debug\helloworld2.csproj.GenerateResource.cache
+C:\Users\uriel\source\repos\helloworld2\obj\Debug\helloworld2.csproj.CoreCompileInputs.cache
