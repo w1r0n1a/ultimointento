@@ -1,0 +1,7 @@
+C:\Users\uriel\source\repos\visual_machine\bin\Debug\visual_machine.exe.config
+C:\Users\uriel\source\repos\visual_machine\bin\Debug\visual_machine.exe
+C:\Users\uriel\source\repos\visual_machine\bin\Debug\visual_machine.pdb
+C:\Users\uriel\source\repos\visual_machine\obj\Debug\visual_machine.csproj.AssemblyReference.cache
+C:\Users\uriel\source\repos\visual_machine\obj\Debug\visual_machine.csproj.CoreCompileInputs.cache
+C:\Users\uriel\source\repos\visual_machine\obj\Debug\visual_machine.exe
+C:\Users\uriel\source\repos\visual_machine\obj\Debug\visual_machine.pdb
